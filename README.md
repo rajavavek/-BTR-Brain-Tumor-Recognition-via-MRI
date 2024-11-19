@@ -1,2 +1,3 @@
-# -BTR-Brain-Tumor-Recognition-via-MRI
-In this project used a Convolutional Neural Network (CNN) and Python libraries such as NumPy, Pandas, and SciPy. I also employed Jupyter Notebook for data exploration and model development. The model results demonstrated a validation accuracy of 91% and a test set accuracy of 89%. 
+# Brain-Tumor-Recognition
+Tumors are the leading cause of cancer, requiring early detection for effective treatment. Deep learning models like CNNs and Exchange Learning can improve the accuracy of MRI tumor location.
+Paper link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827019
